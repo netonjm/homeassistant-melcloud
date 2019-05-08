@@ -1,0 +1,9 @@
+{
+    "melcloud": {
+        "version": "1.0",
+        "local_location": "/custom_components/climate/climate.py",
+        "remote_location": "https://raw.githubusercontent.com/netonjm/homeassistant-melcloud/master/climate/climate.py",
+        "visit_repo": "https://github.com/netonjm/homeassistant-melcloud",
+        "changelog": "https://github.com/netonjm/homeassistant-melcloud/wiki/Changelog"
+    }
+}
